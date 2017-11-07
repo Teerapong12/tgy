@@ -4,7 +4,7 @@
 ;* Fuses should be lfuse=0x3f hfuse=0xca *
 ;*****************************************
 
-.equ	F_CPU		= 16000000
+.equ	F_CPU		= 12
 .equ	USE_INT0	= 0
 .equ	USE_I2C		= 1
 .equ	USE_UART	= 1
